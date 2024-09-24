@@ -24,3 +24,26 @@ Assets
 Sorry if it's clunky, I built what worked for me and decided to share it after the fact! 
 
 If you have PDFs of additional content, you can use Marker PDF to MD, or what I did was had ChatGPT (4o) convert it a few pages at a time. 
+
+Couldn't upload to Github as one big folder, so I uploaded the zip. Download the zip, uncompress it to where you want your vault, and use the uncompressed folder as your vault (without renaming, your vault will be "DnD Template"). It should have all the plugins in the .obsidian file if you do it this way but just in case, here is the list. If it doesn't have a note, it's probably necessary but feel free to play around and disable some to see what breaks it! 
+
+- Admonitions
+- Advanced Tables
+- *Custom Frames* - If you want to open DnDBeyond in Obsidian, otherwise not necessary
+- Dataview
+- *DBFolder* - I don't think I ended up using this one, feel free to try disabling. 
+- Dice Roller
+- Folder Notes
+- *Homepage* - If you want to set the quick sheet as your homepage, otherwise not necessary. 
+- JSEngine
+- *Kanban* - Don't think its used anywhere
+- *Linter* - You don't need it, but it is super helpful if you import source materials. 
+- *Markdown Table Editor* - I used it a bunch to make the quick sheet, but I don't think you need it for gameplay
+- ***Marker PDF to MD*** - Helpful for importing source material, but not necessary for gameplay. 
+- Metabind
+- *Modal Forms* - I can't remember if this one in necessary, feel free to experiment!
+- Obsidian Columns
+- Style Settings
+- Templater
+- *Various Complements* - Handy for linking spells/feats/weapons to your quick sheet but not necessary. 
+
