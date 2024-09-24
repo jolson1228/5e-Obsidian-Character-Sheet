@@ -22,3 +22,5 @@ Assets
 			- level-9
 
 Sorry if it's clunky, I built what worked for me and decided to share it after the fact! 
+
+If you have PDFs of additional content, you can use Marker PDF to MD, or what I did was had ChatGPT (4o) convert it a few pages at a time. 
